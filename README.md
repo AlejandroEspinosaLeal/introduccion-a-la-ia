@@ -2,7 +2,7 @@
 
 La **Inteligencia Artificial (IA)** es una rama de la informática que busca crear máquinas capaces de *pensar, razonar y aprender* como los humanos.
 
-![Cerebro digital](https://upload.wikimedia.org/wikipedia/commons/1/17/Artificial_intelligence_brain.png)
+![Cerebro digital](https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Dall-e_3_%28jan_%2724%29_artificial_intelligence_icon.png/250px-Dall-e_3_%28jan_%2724%29_artificial_intelligence_icon.png)
 
 ---
 
