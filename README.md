@@ -25,5 +25,3 @@ La **IA** permite que los ordenadores realicen tareas que normalmente requieren 
 
 ---
 **Autor:** Alejandro Espinosa Leal 
-
-**Licencia:** [MIT](https://opensource.org/licenses/MIT)
