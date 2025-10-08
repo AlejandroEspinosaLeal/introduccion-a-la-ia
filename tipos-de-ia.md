@@ -25,6 +25,4 @@ Aunque suena a ciencia ficción, algunos científicos advierten sobre los **ries
 
 ---
 
-![Tipos de IA](https://miro.medium.com/v2/resize:fit:1400/1*V0h8u9mSbybnz8TcxpN3aA.png)
-
 [ Volver a la Introducción](README.md)
