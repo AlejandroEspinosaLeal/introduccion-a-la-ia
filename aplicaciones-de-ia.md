@@ -63,4 +63,3 @@ En educación, la IA:
 ---
 
 **Autor:** Alejandro Espinosa Leal  
-**Licencia:** [MIT](https://opensource.org/licenses/MIT)
