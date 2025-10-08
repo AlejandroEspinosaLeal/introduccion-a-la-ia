@@ -24,5 +24,5 @@ La **IA** permite que los ordenadores realicen tareas que normalmente requieren 
 - [Artículo sobre IA en Wikipedia](https://es.wikipedia.org/wiki/Inteligencia_artificial)
 
 ---
-**Autor:** Tu nombre  
+**Autor:** Alejandro Espinosa Leal 
 **Licencia:** [MIT](https://opensource.org/licenses/MIT)
