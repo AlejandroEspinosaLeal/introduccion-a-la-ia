@@ -25,4 +25,4 @@ Aunque suena a ciencia ficción, algunos científicos advierten sobre los **ries
 
 ---
 - [aplicaciones de ia](aplicaciones-de-ia.md)
-[ Volver a la Introducción](README.md)
+- [ Volver a la Introducción](README.md)
