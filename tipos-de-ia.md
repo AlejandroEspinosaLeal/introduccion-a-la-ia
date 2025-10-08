@@ -24,5 +24,5 @@ Superaría la inteligencia humana en todos los aspectos.
 Aunque suena a ciencia ficción, algunos científicos advierten sobre los **riesgos éticos y de control**.
 
 ---
-
+- [aplicaciones de ia](aplicaciones-de-ia.md)
 [ Volver a la Introducción](README.md)
